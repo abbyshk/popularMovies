@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="scheme" translatable="false">https</string>
+    <string name="content_authority" translatable="false">api.themoviedb.org</string>
+    <string name="api_param" translatable="false">api_key</string>
+    <string name="api_key" translatable="false"></string>
+    <string name="popular">Most popular</string>
+    <string name="sort_popular" translatable="false">popular</string>
+    <string name="sort_top" translatable="false">top_rated</string>
+    <string name="sort" translatable="false">sort_by</string>
+    <string name="top_rated">Top rated</string>
+    <string name="release_date">Released date</string>
+    <string name="mv_desc">Description</string>
+    <string name="votes">Votes</string>
+    <string name="mv_detail">Movie Detail</string>
+    <string name="no_internet">No Internet</string>
+    <string name="label_trailers">Trailers</string>
+    <string name="label_reviews">Reviews</string>
+    <string name="label_favourite">Favourites</string>
+</resources>

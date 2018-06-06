@@ -6,7 +6,7 @@ Popular movies is a android app that shows the user details of the latest movies
 
 # Note
 
-If you are building the project in the android studio, Then you need to get your API KEY from the TMDb website eiether by logging in and signing up. You can then put your key in the strings.xml file at line 6 in between the tag. 
+If you are building the project in the android studio, Then you need to get your API KEY from the TMDb website eiether by logging in or signing up. You can then put your key in the strings.xml file at line 6 in between the tag. 
 
 ## Sample Images
 
